@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle_Flip"
+		},
+		{
+			"offsets": [
+				-82,
+				-197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sing_Down_Flip"
+		},
+		{
+			"offsets": [
+				-45,
+				-195
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing_Left_Flip"
+		},
+		{
+			"offsets": [
+				-150,
+				-165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing_Right_Flip"
+		},
+		{
+			"offsets": [
+				-217,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sing_Up_Flip"
+		},
+		{
+			"offsets": [
+				-60,
+				-175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down_Miss_Flip"
+		},
+		{
+			"offsets": [
+				-221,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up_Miss_Flip"
+		},
+		{
+			"offsets": [
+				-28,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Left_Miss_Flip"
+		},
+		{
+			"offsets": [
+				-160,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Right_Miss_Flip"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Tripletroublechar/BFPhase3_Perspective_Flipped",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

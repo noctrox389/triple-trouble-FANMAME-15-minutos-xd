@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-67
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Knux Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Knux Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Knux Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Knux Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				131,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Knux left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Tripletroublechar/KnucklesHalf",
+	"position": [
+		110,
+		380
+	],
+	"healthicon": "knuckleshalf",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		20,
+		20
+	],
+	"camera_position": [
+		-90,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
